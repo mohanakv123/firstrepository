@@ -1,0 +1,6 @@
+javac NoDefConst.java
+cd desktop
+javac NoDefConst.java
+java NoDefConst
+java NoDefConst
+java NoDefConst

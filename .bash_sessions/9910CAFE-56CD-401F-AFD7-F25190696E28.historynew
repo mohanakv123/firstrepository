@@ -1,0 +1,7 @@
+javac RoomArea.java
+cd desktop
+javac RoomArea.java
+java RoomArea
+java RoomArea
+javac RoomArea.java
+java RoomArea

@@ -1,0 +1,14 @@
+cd desktop
+javac WhileLoopDemo.java
+java WhileLoopDemo
+java WhileLoopDemo
+javac WhileLoopDemo.java
+java WhileLoopDemo
+javac DoWhileLoopDemo.java
+java DoWhileLoopDemo
+javac DoWhileLoopDemo.java
+java DoWhileLoopDemo
+javac DoWhileLoopDemo.java
+java DoWhileLoopDemo
+javac DoWhileLoopDemo.java
+java DoWhileLoopDemo
